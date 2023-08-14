@@ -2,7 +2,6 @@
 
 This repo contains the Food-500 Cap dataset for our paper: [Food-500 Cap: A Fine-Grained Food Caption Benchmark for Evaluating Vision-Language](https://arxiv.org/abs/2308.03151)(ACM MM'2023)
 
----
 We provide the descriptions in two files (finetune_data.json, and evaluation_data.json). 
 The images of the Food-500 Cap are from ISIA Food-500, you can download images from [here](http://123.57.42.89/FoodComputing-Dataset/ISIA-Food500.html).
 
@@ -12,7 +11,6 @@ In our paper we use all data to evaluate the VLMs. For the convenience of everyo
 
 
 ## Citation
----
 
 ```
 @article{ma2023food,
